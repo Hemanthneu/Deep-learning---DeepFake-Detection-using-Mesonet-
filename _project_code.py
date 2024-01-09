@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""ECE_792_Project_Phase2.ipynb
-
-**ECE-792 Project Phase-2 Submission** - by
-
-
-1.   Anup Desai (200443226)
-2.   Akhil Bukkapuram (200481004)
-3.   Surya Dutta (200481187)
-"""
 
 from google.colab import drive
 drive.mount('/content/gdrive',force_remount=True)
